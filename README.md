@@ -8,12 +8,11 @@
 
 ## How to run
 
-In the project directory, you can first run:
+In the project directory, you can first install all the dependencies in your project:
 
-### 'npm install'
+### `npm install`
 
-
-
+Then, you can run:      
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
