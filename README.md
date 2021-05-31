@@ -8,7 +8,11 @@
 
 ## How to run
 
-In the project directory, you can run:
+In the project directory, you can first run:
+
+### 'npm install'
+
+
 
 ### `npm start`
 
